@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Model outputs
+saved_model/
+*.h5
+*.keras
+*.pkl
+
+# Data
+data/
+*.csv
+
+# Plots
+plots/
+
+# OS
+.DS_Store
+Thumbs.db
